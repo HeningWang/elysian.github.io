@@ -1,0 +1,31 @@
+I"�<h3 id="autor-information">Autor Information</h3>
+
+<p>Timothy Leffel arbeitet zurzeit als Data Scientist an der Universität Chicago. Er hat sein PhD in Linguisitk von der Universität New York erlangt, sein Hauptforschungsinteresse besteht aus Semantik, Pragmatik und Psycholinguistik.</p>
+
+<h3 id="text-information">Text Information</h3>
+
+<p>Diese Arbeit ist auf der jährlichen Konferenz SALT (Semantics and Linguistic Theory) veröffentlicht, die auf Bereichen Semantik und Pragmatik spezialisiert.</p>
+
+<h3 id="einführung-wichtiger-begriffe">Einführung wichtiger Begriffe</h3>
+
+<p><strong>Gradable Adjectives (GAs)</strong>: sind Adjektive, die Skalaren in gewissen Stufen bilden können. Repräsentativ dafür sind <em>groß</em> oder <em>lang</em>.</p>
+
+<p><strong>Relative and Absolute GAs</strong>: Die relativen GAs  wie <em>groß</em> oder <em>lang</em> in (1) sind in ihrer Natur <strong>vage</strong> und kontextabhängig; Die absoluten GAs wie <em>voll</em> oder <em>gerade</em> in (2) kann (aber muss nicht) genau interpretiert werden. In der Degree Semantik wird angenommen, dass die Vagheit der beiden GAs von einem im Kontext salienten Schwellenwert (<strong>semantic threshold</strong>) modifiziert wird, das, ähnlich wie bei Pronomen, durch eine freie Variable zugeordnet wird, wobei die absoluten GAs einen höchsten Wert als Endpunkt haben (geschlossene Skalaren), und die relativen GAs offene Skalaren bilden.</p>
+
+<p><strong>Imprecision</strong>: Dabei geht es um die absoluten GAs, die normalerweise eine genaue Menge denotieren können, aber im Kontext auch das Potenzial haben, als ungenau interpreitert zu werden, wie in (2).</p>
+
+<p>(1)<br />
+a. Das Zimmer ist überfüllt.<br />
+b. Es gibt viele Menschen hier. <br />
+c. Die Antenne ist lang.</p>
+
+<p>(Übersetzt von (1) in Leffel et.al 2016)</p>
+
+<p>(2)<br />
+a. Das Zimmer ist voll. <br />
+b. Es gibt ein hundert Menschen hier.<br />
+c. Die Antenne ist gerade.</p>
+
+<p>(Übersetzt von (2) in Leffel et al. 2016)</p>
+
+:ET

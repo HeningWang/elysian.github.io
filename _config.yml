@@ -28,7 +28,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 ## => Language and Timezone
 ##############################
 lang: EN
-timezone: DE
+timezone: GB
 
 
 ## => Author and Social
